@@ -1,4 +1,5 @@
 mgmt_ip: 10.2.3.4
+sdn_controller: 102.4.5.4
 vlans:
    red:
      id: 10
