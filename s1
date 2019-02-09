@@ -1,13 +1,13 @@
-mgmt_ip: 10.2.3.4
+mgmt_ip: 10.2.3.5
 sdn_controller: 102.4.5.4
 vlans:
-   red:
+   green:
      id: 10
    blue:
      id: 20
 ports:
   1: [10]
-  2: [20]
+  2: [30]
   3: [10, 30]
 auth_ip: 12.3.4.4
 
